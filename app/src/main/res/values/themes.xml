@@ -1,0 +1,47 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SimpleCalculator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/grey</item>
+        <item name="colorPrimaryVariant">@color/almostBlack</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="greyButton" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:backgroundTint">@color/grey</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="cornerRadius">50sp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="background">@color/grey</item>
+    </style>
+    <style name="almostBlackButton" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:backgroundTint">@color/almostBlack</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="cornerRadius">50sp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="background">@color/grey</item>
+    </style>
+    <style name="orangeButton" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:backgroundTint">@color/orange</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="cornerRadius">50sp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="background">@color/grey</item>
+    </style>
+</resources>
