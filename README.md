@@ -37,8 +37,7 @@ If you have any feedback, please reach out to us at datnmt.21it@vku.udn.vn
 
 
 ## Screenshots
-![App Screenshot] 
-(https://user-images.githubusercontent.com/94544483/219428782-24be44e3-7c5f-4703-b8a3-438dea14047c.png)
+![các](https://user-images.githubusercontent.com/94544483/219428930-d7c4b88a-1a46-4744-b382-b5cdea64615e.png)
 
 ## Tech Stack
 
